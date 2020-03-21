@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://dcode.design/generateView",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
